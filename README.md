@@ -2,7 +2,7 @@
 ## Deskripsi Singkat
 Program ini dibuat agar kalian para jones bisa mendapatkan kode nuklir 6 digit angka yang dapat ditukar di website kesayangan Anda : [Nhentai](https://www.nhentai.net) (Pastikan membukanya dengan menggunakan VPN)
 
-Cara Menggunakan kodnya adalah sebagai berikut :
+Cara Menggunakan kodenya adalah sebagai berikut :
 
 `https://nhentai.net/g/(kode Anda)`
 
