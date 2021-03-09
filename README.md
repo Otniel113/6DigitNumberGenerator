@@ -10,7 +10,7 @@ Cara Menggunakan kodnya adalah sebagai berikut :
 ## Overview
 ![Overview](https://drive.google.com/uc?id=19CAktxWzh6b3MNetGBfcGPl3ZunA-kKe)
 
-Program berupa GUI dan hanya dengan menekan tombol "Generate", maka kode akan dibuat. Untuk membuat kode lagi, maka tekan "Generate" lagi.
+Program berupa GUI dan hanya dengan menekan tombol "Generate", maka kode nuklir akan dibuat. Untuk membuat kode nuklir lagi, maka tekan "Generate" lagi.
 
 
 ## Bahasa dan Library
