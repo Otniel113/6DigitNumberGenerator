@@ -13,10 +13,10 @@ Cara Menggunakan kodenya adalah sebagai berikut :
 Program berupa GUI dan hanya dengan menekan tombol "Generate", maka kode nuklir akan dibuat. Untuk membuat kode nuklir lagi, maka tekan "Generate" lagi.
 
 
-## Bahasa dan Library
+## Bahasa dan Tool
 1. Bahasa   : Python
-2. Library  : Tkinter (untuk GUI), Pyinstaller (untuk executable)
-
+2. Library  : Tkinter (untuk GUI)
+3. Package  : Pyinstaller (untuk executable)
 
 ## Cara Buka
 ### Untuk yang tidak install python
